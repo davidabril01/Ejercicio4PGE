@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Ejercicio4PGE/static/css/main.928640d4.css",
-    "main.js": "/Ejercicio4PGE/static/js/main.059295c6.js",
+    "main.js": "/Ejercicio4PGE/static/js/main.5cfcce13.js",
     "index.html": "/Ejercicio4PGE/index.html",
     "main.928640d4.css.map": "/Ejercicio4PGE/static/css/main.928640d4.css.map",
-    "main.059295c6.js.map": "/Ejercicio4PGE/static/js/main.059295c6.js.map"
+    "main.5cfcce13.js.map": "/Ejercicio4PGE/static/js/main.5cfcce13.js.map"
   },
   "entrypoints": [
     "static/css/main.928640d4.css",
-    "static/js/main.059295c6.js"
+    "static/js/main.5cfcce13.js"
   ]
 }
