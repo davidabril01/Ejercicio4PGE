@@ -8,10 +8,11 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<PagePrincipal />} />
-        {/* Ruta dinámica para productos */}
+        <Route path="/Ejercicio4PGE" element={<PagePrincipal />} /> {/* Añadir esta línea */}
         <Route path="/products/:productName" element={<ProductPage />} />
       </Routes>
     </Router>
+
   );
 }
 
